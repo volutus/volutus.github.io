@@ -1,13 +1,9 @@
 
-let standingsUri = 'json/standings.json';
-let standingsJson = '{}'
-
-
-
+const STANDINGS_URI = 'json/standings.json';
 $(function() 
 {
     // Load data into table
-    $.getJSON(standingsUri, function(data) 
+    $.getJSON(STANDINGS_URI, function(data) 
     {
         const standings = data?.standings
         let teams = []
