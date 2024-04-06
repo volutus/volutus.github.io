@@ -1,8 +1,9 @@
 
 const STANDINGS_URI = 'json/standings.json';
+const SCHEDULE_URI = 'json/schedule.json';
 $(function() 
 {
-    // Load data into table
+    // Load standings data
     $.getJSON(STANDINGS_URI, function(data) 
     {
         const standings = data?.standings
@@ -31,5 +32,35 @@ $(function()
             row.insertCell(rowIndex++).innerHTML = team.division;
         }
     });
+
+    // Load schedule data
+    $.getJSON(SCHEDULE_URI, function(data) 
+    {   
+        let allGames = [];
+        for (let day of data) 
+        {
+            for (let game of day.games) 
+            { 
+                allGames.push(game); 
+            } 
+        }
+
+        for (let game of allGames)
+        {
+            let table = document.getElementById("schedule");
+            let row = table.insertRow();
+            let rowIndex = 0;
+
+            row.insertCell(rowIndex++).innerHTML = game.startTime;
+            row.insertCell(rowIndex++).innerHTML = cleanTeamName(game.teams.home);
+            row.insertCell(rowIndex++).innerHTML = cleanTeamName(game.teams.away);
+        }
+    });
 });
+
+function cleanTeamName(team)
+{
+    return team.locationName + " " + team.teamName;
+}
+
 
