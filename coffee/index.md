@@ -1,11 +1,11 @@
-# Coffee
+# Brewing Methods
 
-## Methods
+## [V60 Pourover](methods/v60)
 
-### [V60 Pourover](methods/v60)
+## [AeroPress](methods/aeropress)
 
-### [AeroPress](methods/aeropress)
+---
 
-## Recipes
+# Recipes
 
 ### [Atomic Moonwalk](beans/moonwalk)
