@@ -6,4 +6,4 @@ Medium-light roast with sweet and acidic characteristics.
 
 Grind size: 15, maybe 14(?) on Timemore C2
 
-Follow [standard V60 method](../v60)
+[Follow standard V60 method](../methods/v60)
