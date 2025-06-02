@@ -9,3 +9,5 @@
 # Recipes
 
 ### [Atomic Moonwalk](beans/moonwalk)
+
+### [Atomic Space Cadet](beans/space-cadet)
