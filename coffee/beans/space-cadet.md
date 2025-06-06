@@ -4,8 +4,14 @@ Medium roast blend intended for cold brew with mostly dark notes.
 
 ## V60
 
-Grind size: 16 (Timemore C2)
+Grind size: 17-18 (Timemore C2)
 
-> I found that it was still quite bitter at this grind size, so I'm going to try backing it up more (maybe closer to 18)
+> I started at 16 but it was quite bitter, so I went up to 18 which was still strong but far more muted on the bitterness. I tasted some acidity coming through so I think 17 might be the sweet spot here.
 
 [Follow standard V60 method](../methods/v60)
+
+## Cold Brew
+
+I haven't tried cold brew for this yet, but I think it would be a perfect candidate. 
+
+Grind size: 24-26 (Timemore C2)
