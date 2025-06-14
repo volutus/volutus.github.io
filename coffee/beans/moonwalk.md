@@ -4,8 +4,10 @@ Medium-light roast with sweet and acidic characteristics.
 
 ## V60
 
-Grind size: 15 (Timemore C2)
+Grind size: 13-14 (Timemore C2)
 
-> I noticed some sour notes at 15 hinting at under-extraction, but that's relatively fine for pourover. Maybe try 14 to see if it works better, but I think 15 is about right.
+I've done this brew several times and I think that going as low as 13 is okay here. The roast is pretty light so I'm not getting any bitter notes, even with this fine of a grind.
+
+Note that going this fine will increase the brew time since it takes longer to get through the extraction.
 
 [Follow standard V60 method](../methods/v60)
