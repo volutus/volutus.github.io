@@ -4,6 +4,8 @@
 
 ## [AeroPress](methods/aeropress)
 
+## [Cold Brew, Hario Mizudashi](methods/cold-brew)
+
 ---
 
 # Recipes
