@@ -10,6 +10,10 @@
 
 # Recipes
 
-### [Atomic Moonwalk](beans/moonwalk)
+## Atomic Roasters
 
-### [Atomic Space Cadet](beans/space-cadet)
+### [Moonwalk](beans/moonwalk)
+
+### [Space Cadet](beans/space-cadet)
+
+### [Merry and Bright | Seasonal](beans/merry-and-bright)
